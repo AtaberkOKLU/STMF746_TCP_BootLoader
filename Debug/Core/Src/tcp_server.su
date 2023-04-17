@@ -1,0 +1,8 @@
+../Core/Src/tcp_server.c:58:6:tcp_server_init	16	static
+../Core/Src/tcp_server.c:93:14:tcp_server_accept	32	static
+../Core/Src/tcp_server.c:145:14:tcp_server_recv	40	static
+../Core/Src/tcp_server.c:290:14:tcp_server_sent	32	static
+../Core/Src/tcp_server.c:332:13:tcp_server_send	32	static
+../Core/Src/tcp_server.c:401:13:tcp_server_connection_close	16	static
+../Core/Src/tcp_server.c:441:13:tcp_server_error	24	static
+../Core/Src/tcp_server.c:461:14:tcp_server_poll	24	static

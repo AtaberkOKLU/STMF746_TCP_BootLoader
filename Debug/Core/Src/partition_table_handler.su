@@ -1,0 +1,10 @@
+../Core/Src/partition_table_handler.c:34:6:readPartitionTableFromFlash	24	static
+../Core/Src/partition_table_handler.c:41:6:writePartitionTable2Flash	32	static
+../Core/Src/partition_table_handler.c:49:6:readBootFromTable	24	static
+../Core/Src/partition_table_handler.c:56:6:writeBoot2Table	32	static
+../Core/Src/partition_table_handler.c:64:6:updateBootConfiguration	24	static
+../Core/Src/partition_table_handler.c:72:6:updatePartitionTableConfigurations	16	static
+../Core/Src/partition_table_handler.c:82:6:writeBoot2Flash	24	static
+../Core/Src/partition_table_handler.c:95:6:resetBootingProccess	24	static
+../Core/Src/partition_table_handler.c:103:9:erasePartitionTable	32	static
+../Core/Src/partition_table_handler.c:125:9:checkBootMD5	16	static
